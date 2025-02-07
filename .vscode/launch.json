@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-LaptopshopApplication<Laptopshop>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "vn.Laptopshop.LaptopshopApplication",
+            "projectName": "Laptopshop",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
